@@ -1,0 +1,18 @@
+{
+	"name": "mdsvex-katex",
+	"description": "Test-case for mdsvex + katex",
+	"version": "0.0.1",
+	"scripts": {
+		"test": "rollup -c test.js"
+	},
+	"dependencies": {
+		"svelte": "^3.24.1"
+	},
+	"devDependencies": {
+		"mdsvex": "^0.8.3",
+		"rehype-katex": "^3.1.0",
+		"remark-math": "^2.0.1",
+		"rollup": "^2.23.1",
+		"rollup-plugin-svelte": "^5.2.3"
+	}
+}

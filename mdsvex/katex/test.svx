@@ -1,0 +1,13 @@
+# Header
+
+Some text.
+
+## Header 2
+
+A function:
+
+$$
+f(x) = \sum_{n=0}^{\infty}a^ncos(b^n \pi x)
+$$
+
+where $$0 < a < 1$$, $$b$$ is a positive odd integer, and $$ab > 1 + \frac{3}{2}\pi$$.
