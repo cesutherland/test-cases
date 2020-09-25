@@ -1,0 +1,14 @@
+{
+  "name": "esbuild-browser-require-path",
+  "version": "1.0.0",
+  "main": "dist.js",
+  "scripts": {
+    "build": "node ./build.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.7.5"
+  },
+  "dependencies": {
+    "vfile": "^4.2.0"
+  }
+}
